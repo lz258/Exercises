@@ -3,6 +3,11 @@
 ## 任务
 对stm32编程，实现[演示程序](https://github.com/kbridge/Exercises/raw/master/group/Exercise1_demo.zip)所实现的效果，即：用左右按键控制数码管发光的节。
 
+## 时间
+截止日期：3/30，下周三
+
+做好的话随时找本组学长学姐审核。
+
 ## 提交
 首次练习不做要求。但强烈建议在开发此项目时使用git，并把最终结果push到你们github的仓库中，以练习git的使用。
 
